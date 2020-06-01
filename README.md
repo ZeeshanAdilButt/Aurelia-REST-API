@@ -16,3 +16,15 @@ The latest major release is [.NET Core 3.1](release-notes/3.1). The latest patch
 ## Versions
 
 ``` https://localhost:44384//swagger ```
+
+## Use the following commands to interact with application
+
+restore packages
+``` dotnet restore ````
+
+build application
+``` dotnet build ````
+
+
+run application
+``` dotnet run ````
